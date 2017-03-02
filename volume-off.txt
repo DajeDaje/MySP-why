@@ -1,0 +1,2 @@
+mi serve sapere se effettivamente e' attivo il volume
+per escludere il problema.
